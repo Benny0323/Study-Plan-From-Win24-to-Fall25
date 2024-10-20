@@ -7,7 +7,7 @@
 
 - **C++编程抽象**  
   [CS106L](https://csdiy.wiki/编程入门/cpp/CS106L/)  
-  [AcWing语法基础课](https://www.acwing.com/activity/content/21/)
+  [AcWing语法基础课](https://www.acwing.com/activity/content/21/)  
   [AcWing算法基础课](https://www.acwing.com/activity/content/11/)
 
 - **Python**  
@@ -69,5 +69,5 @@
 - **并行计算**  
   [CS149](https://csdiy.wiki/并行与分布式系统/CS149/)
   
-- **离散数学和概率论**
+- **离散数学和概率论**  
   [CS70](https://csdiy.wiki/数学进阶/CS70/)
