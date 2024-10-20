@@ -68,5 +68,6 @@
 
 - **并行计算**  
   [CS149](https://csdiy.wiki/并行与分布式系统/CS149/)
+  
 - **离散数学和概率论**
-- [CS70](https://csdiy.wiki/数学进阶/CS70/)
+  [CS70](https://csdiy.wiki/数学进阶/CS70/)
