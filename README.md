@@ -5,15 +5,13 @@
 - **动手学深度学习**  
   [深度学习](https://zh.d2l.ai)
 
-- **C++**  
+- **C++编程抽象**  
   [CS106L](https://csdiy.wiki/编程入门/cpp/CS106L/)  
-  [AcWing C++](https://www.acwing.com/activity/content/21/)
+  [AcWing语法基础课](https://www.acwing.com/activity/content/21/)
+  [AcWing算法基础课](https://www.acwing.com/activity/content/11/)
 
 - **Python**  
   [CS50P](https://csdiy.wiki/编程入门/Python/CS50P/)
-
-- **数据结构与算法**  
-  [数据结构与算法](https://www.acwing.com/activity/content/11/)
 
 - **MIT Missing Semester**  
   [MIT Missing Semester](https://csdiy.wiki/编程入门/MIT-Missing-Semester/)
