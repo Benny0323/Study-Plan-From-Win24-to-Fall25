@@ -59,7 +59,7 @@
   [CS61B](https://csdiy.wiki/数据结构与算法/CS61B/)
 
 - **网络开发**  
-  [MIT Web 开发](https://csdiy.wiki/Web开发/mitweb/) 
+  [MIT Web 开发](https://csdiy.wiki/Web开发/mitweb/)  
   [ByteDance](https://juejin.cn/course/bytetech)
 
 - **计算机系统导论**  
