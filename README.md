@@ -60,6 +60,7 @@
 
 - **网络开发**  
   [MIT Web 开发](https://csdiy.wiki/Web开发/mitweb/)
+  [ByteDance](https://juejin.cn/course/bytetech)
 
 - **计算机系统导论**  
   [CSAPP](https://csdiy.wiki/计算机系统基础/CSAPP/)
