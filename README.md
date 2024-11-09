@@ -30,9 +30,6 @@
 
 ## 寒假 + 大四下
 
-- **体系结构进阶**  
-  [CS61C](https://csdiy.wiki/体系结构/CS61C/)
-
 - **操作系统**  
   [MIT 6.S081](https://csdiy.wiki/操作系统/MIT6.S081/)
 
@@ -40,7 +37,6 @@
   - 《图解TCP/IP》
   - 《网络是怎样连接的》
   - 《Wireshark网络分析就这么简单》
-  -  [CS144](https://csdiy.wiki/计算机网络/CS144/)
 
 - **实习**  
   XXX实习（算法工程师）
