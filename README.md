@@ -14,7 +14,6 @@
   [CS50P](https://csdiy.wiki/编程入门/Python/CS50P/)
 
 - **MIT Missing Semester + Linux Basics**  
-  [MIT Missing Semester](https://csdiy.wiki/编程入门/MIT-Missing-Semester/)  
   [UCB Sysadmin DeCal ](https://csdiy.wiki/编程入门/DeCal/)
 
 - **体系结构**  
