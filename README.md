@@ -14,10 +14,10 @@
   [CS50P](https://csdiy.wiki/编程入门/Python/CS50P/)
 
 - **Linux Basics**  
-  [UCB Sysadmin DeCal ](https://csdiy.wiki/编程入门/DeCal/)
+  [UCB Sysadmin DeCal](https://csdiy.wiki/编程入门/DeCal/)
 
-- **体系结构**  
-  [N2T](https://csdiy.wiki/体系结构/N2T/)
+- **Deep Generative Models**  
+  [6.S978](https://mit-6s978.github.io/schedule.html)  
   
 - **实习**  
   海康威视实习（算法工程师）
@@ -28,6 +28,9 @@
 ---
 
 ## 寒假 + 大四下
+
+- **体系结构**  
+  [N2T](https://csdiy.wiki/体系结构/N2T/)
 
 - **操作系统**  
   [MIT 6.S081](https://csdiy.wiki/操作系统/MIT6.S081/)
