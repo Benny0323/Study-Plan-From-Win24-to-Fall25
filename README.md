@@ -65,3 +65,7 @@
 
 - **并行计算**  
   [CS149](https://csdiy.wiki/并行与分布式系统/CS149/)
+
+- **Recent Advances on Foundation Models**  
+  [CS886](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
+  
