@@ -1,6 +1,19 @@
 # 大四规划
 
-## 大四上
+## 寒假
+
+- **Python**  
+  [CS50P](https://csdiy.wiki/编程入门/Python/CS50P/)
+
+- **Deep Generative Models**  
+  [6.S978](https://mit-6s978.github.io/schedule.html)  
+  
+- **实习**  
+  海康威视实习（算法工程师）
+
+---
+
+## 大四下
 
 - **动手学深度学习**  
   [深度学习](https://zh.d2l.ai)
@@ -9,25 +22,6 @@
   [CS106L](https://csdiy.wiki/编程入门/cpp/CS106L/)  
   [AcWing语法基础课](https://www.acwing.com/activity/content/21/)  
   [AcWing算法基础课](https://www.acwing.com/activity/content/11/)
-
-- **Python**  
-  [CS50P](https://csdiy.wiki/编程入门/Python/CS50P/)
-
-- **Linux Basics**  
-  [UCB Sysadmin DeCal](https://csdiy.wiki/编程入门/DeCal/)
-
-- **Deep Generative Models**  
-  [6.S978](https://mit-6s978.github.io/schedule.html)  
-  
-- **实习**  
-  海康威视实习（算法工程师）
-
-- **研究**  
-  CT成像知识学习 + 相关论文阅读
-
----
-
-## 寒假 + 大四下
 
 - **体系结构**  
   [N2T](https://csdiy.wiki/体系结构/N2T/)
@@ -40,11 +34,11 @@
   《网络是怎样连接的》
   《Wireshark网络分析就这么简单》
 
-- **实习**  
-  XXX实习（算法工程师）
+- **Linux Basics**  
+  [UCB Sysadmin DeCal](https://csdiy.wiki/编程入门/DeCal/)
 
 - **研究**  
-  相关论文阅读 + 代码复现
+ CT成像知识学习 + 相关论文阅读 + 代码复现
 
 ---
 
