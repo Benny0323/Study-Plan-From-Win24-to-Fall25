@@ -9,7 +9,7 @@
   [6.S978](https://mit-6s978.github.io/schedule.html)  
   
 - **实习**  
-  海康威视实习（算法工程师）
+  [海康威视](https://www.hikvision.com/cn/)实习（算法工程师）
 
 ---
 
