@@ -15,8 +15,9 @@
 
 ## 大四下
 
-- **动手学深度学习**  
-  [深度学习](https://zh.d2l.ai）（https://udlbook.github.io/udlbook/)
+- **深度学习**  
+  [动手学深度学习](https://zh.d2l.ai）
+  [Understanding Deep Learning]（https://udlbook.github.io/udlbook/)
 
 - **C++编程抽象**  
   [CS106L](https://csdiy.wiki/编程入门/cpp/CS106L/)  
