@@ -1,6 +1,6 @@
 # 大四规划
 
-## 寒假
+## 3月前
 
 - **Python**  
   [CS50P](https://csdiy.wiki/编程入门/Python/CS50P/)
