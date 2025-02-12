@@ -40,7 +40,7 @@
   [UCB Sysadmin DeCal](https://csdiy.wiki/编程入门/DeCal/)
 
 - **研究**  
- CT成像知识学习 + 相关论文阅读 + 代码复现
+  医学成像知识学习 + 相关论文阅读 + 代码复现
 
 ---
 
